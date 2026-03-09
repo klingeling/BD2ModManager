@@ -7,8 +7,8 @@
             "url": "https://raw.githubusercontent.com/bruhnn/BD2ModManager/refs/heads/main/src/data/authors.csv"
         },
         "characters.csv": {
-            "version": "0.0.9",
-            "hash": "da602b2d5c716084ec6d43b8332be72069867a4f25834f8188c592784b729647",
+            "version": "0.0.10",
+            "hash": "5302aaf6c11d4283750676760afb1ffec5babc98cb1c674636e6d1ff4e9a5dcf",
             "url": "https://raw.githubusercontent.com/bruhnn/BD2ModManager/refs/heads/main/src/data/characters.csv"
         },
         "datings.csv": {
